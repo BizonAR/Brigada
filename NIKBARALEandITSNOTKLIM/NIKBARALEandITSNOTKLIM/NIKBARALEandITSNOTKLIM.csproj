@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{62529518-ECDD-4A18-87E4-AE5CA883821B}</ProjectGuid>
+    <ProjectGuid>{67598932-949B-4CB2-8417-9C80528FFEB2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TypeYourTitle</RootNamespace>
-    <AssemblyName>TypeYourTitle</AssemblyName>
+    <RootNamespace>NIKBARALEandITSNOTKLIM</RootNamespace>
+    <AssemblyName>NIKBARALEandITSNOTKLIM</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,6 +34,15 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TypeYourTitle.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
