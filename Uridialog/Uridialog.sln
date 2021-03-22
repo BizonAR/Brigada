@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIKBARALEandITSNOTKLIM", "NIKBARALEandITSNOTKLIM\NIKBARALEandITSNOTKLIM.csproj", "{67598932-949B-4CB2-8417-9C80528FFEB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uridialog", "Uridialog\Uridialog.csproj", "{3A09AA2F-951B-4D23-84D8-34A53885FEEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67598932-949B-4CB2-8417-9C80528FFEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67598932-949B-4CB2-8417-9C80528FFEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67598932-949B-4CB2-8417-9C80528FFEB2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{67598932-949B-4CB2-8417-9C80528FFEB2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3A09AA2F-951B-4D23-84D8-34A53885FEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A09AA2F-951B-4D23-84D8-34A53885FEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A09AA2F-951B-4D23-84D8-34A53885FEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A09AA2F-951B-4D23-84D8-34A53885FEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CFBCDB7F-3793-4294-A007-24A84838447B}
+		SolutionGuid = {E9CABB7B-B3E7-405A-A54C-05FCD5E40CEA}
 	EndGlobalSection
 EndGlobal

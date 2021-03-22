@@ -1,0 +1,7 @@
+C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\obj\Release\Uridialog.csproj.CoreCompileInputs.cache
+C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\bin\Release\Uridialog.exe.config
+C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\bin\Release\Uridialog.exe
+C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\bin\Release\Uridialog.pdb
+C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\obj\Release\Uridialog.exe
+C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\obj\Release\Uridialog.pdb
+C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\obj\Release\Uridialog.csprojAssemblyReference.cache
