@@ -1,0 +1,7 @@
+C:\Users\NIKBARALE\source\repos\ExploreDirectories\ExploreDirectories\bin\Debug\ExploreDirectories.exe.config
+C:\Users\NIKBARALE\source\repos\ExploreDirectories\ExploreDirectories\bin\Debug\ExploreDirectories.exe
+C:\Users\NIKBARALE\source\repos\ExploreDirectories\ExploreDirectories\bin\Debug\ExploreDirectories.pdb
+C:\Users\NIKBARALE\source\repos\ExploreDirectories\ExploreDirectories\obj\Debug\ExploreDirectories.csprojAssemblyReference.cache
+C:\Users\NIKBARALE\source\repos\ExploreDirectories\ExploreDirectories\obj\Debug\ExploreDirectories.csproj.CoreCompileInputs.cache
+C:\Users\NIKBARALE\source\repos\ExploreDirectories\ExploreDirectories\obj\Debug\ExploreDirectories.exe
+C:\Users\NIKBARALE\source\repos\ExploreDirectories\ExploreDirectories\obj\Debug\ExploreDirectories.pdb

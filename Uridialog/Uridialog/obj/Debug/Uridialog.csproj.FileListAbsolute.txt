@@ -1,2 +1,0 @@
-C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\obj\Debug\Uridialog.csprojAssemblyReference.cache
-C:\Users\NIKBARALE\source\repos\Uridialog\Uridialog\obj\Debug\Uridialog.csproj.CoreCompileInputs.cache
