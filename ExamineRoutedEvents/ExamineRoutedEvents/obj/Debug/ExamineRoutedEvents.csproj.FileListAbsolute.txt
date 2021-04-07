@@ -1,0 +1,7 @@
+C:\Users\NIKBARALE\source\repos\ExamineRoutedEvents\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.exe.config
+C:\Users\NIKBARALE\source\repos\ExamineRoutedEvents\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.exe
+C:\Users\NIKBARALE\source\repos\ExamineRoutedEvents\ExamineRoutedEvents\bin\Debug\ExamineRoutedEvents.pdb
+C:\Users\NIKBARALE\source\repos\ExamineRoutedEvents\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.csprojAssemblyReference.cache
+C:\Users\NIKBARALE\source\repos\ExamineRoutedEvents\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.csproj.CoreCompileInputs.cache
+C:\Users\NIKBARALE\source\repos\ExamineRoutedEvents\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.exe
+C:\Users\NIKBARALE\source\repos\ExamineRoutedEvents\ExamineRoutedEvents\obj\Debug\ExamineRoutedEvents.pdb
