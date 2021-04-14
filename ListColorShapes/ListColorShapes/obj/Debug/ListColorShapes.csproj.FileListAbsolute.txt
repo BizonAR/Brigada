@@ -1,0 +1,7 @@
+C:\Users\NIKBARALE\source\repos\ListColorShapes\ListColorShapes\bin\Debug\ListColorShapes.exe.config
+C:\Users\NIKBARALE\source\repos\ListColorShapes\ListColorShapes\bin\Debug\ListColorShapes.exe
+C:\Users\NIKBARALE\source\repos\ListColorShapes\ListColorShapes\bin\Debug\ListColorShapes.pdb
+C:\Users\NIKBARALE\source\repos\ListColorShapes\ListColorShapes\obj\Debug\ListColorShapes.csprojAssemblyReference.cache
+C:\Users\NIKBARALE\source\repos\ListColorShapes\ListColorShapes\obj\Debug\ListColorShapes.csproj.CoreCompileInputs.cache
+C:\Users\NIKBARALE\source\repos\ListColorShapes\ListColorShapes\obj\Debug\ListColorShapes.exe
+C:\Users\NIKBARALE\source\repos\ListColorShapes\ListColorShapes\obj\Debug\ListColorShapes.pdb

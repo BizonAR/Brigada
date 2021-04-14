@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamineRoutedEvents", "ExamineRoutedEvents\ExamineRoutedEvents.csproj", "{0E74FF6D-C606-4A7B-940D-5F96DE9E4D04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListColorShapes", "ListColorShapes\ListColorShapes.csproj", "{404DE0A7-A398-4791-BAC3-AE35F1360D14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E74FF6D-C606-4A7B-940D-5F96DE9E4D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E74FF6D-C606-4A7B-940D-5F96DE9E4D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E74FF6D-C606-4A7B-940D-5F96DE9E4D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E74FF6D-C606-4A7B-940D-5F96DE9E4D04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404DE0A7-A398-4791-BAC3-AE35F1360D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404DE0A7-A398-4791-BAC3-AE35F1360D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404DE0A7-A398-4791-BAC3-AE35F1360D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404DE0A7-A398-4791-BAC3-AE35F1360D14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {98CAC721-5F17-46AF-BCE9-ED9EB63E5938}
+		SolutionGuid = {1AC52DC4-C3CB-4021-A57B-82F84F82F2CB}
 	EndGlobalSection
 EndGlobal
