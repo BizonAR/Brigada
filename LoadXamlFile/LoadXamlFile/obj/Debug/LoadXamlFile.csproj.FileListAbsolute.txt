@@ -1,0 +1,7 @@
+C:\Users\NIKBARALE\source\repos\LoadXamlFile\LoadXamlFile\bin\Debug\LoadXamlFile.exe.config
+C:\Users\NIKBARALE\source\repos\LoadXamlFile\LoadXamlFile\bin\Debug\LoadXamlFile.exe
+C:\Users\NIKBARALE\source\repos\LoadXamlFile\LoadXamlFile\bin\Debug\LoadXamlFile.pdb
+C:\Users\NIKBARALE\source\repos\LoadXamlFile\LoadXamlFile\obj\Debug\LoadXamlFile.csprojAssemblyReference.cache
+C:\Users\NIKBARALE\source\repos\LoadXamlFile\LoadXamlFile\obj\Debug\LoadXamlFile.csproj.CoreCompileInputs.cache
+C:\Users\NIKBARALE\source\repos\LoadXamlFile\LoadXamlFile\obj\Debug\LoadXamlFile.exe
+C:\Users\NIKBARALE\source\repos\LoadXamlFile\LoadXamlFile\obj\Debug\LoadXamlFile.pdb
